@@ -3,4 +3,4 @@ TO USE COPY THE
       -package-lock.json
       -package.json
 RUN  -->>  npm init       in the terminal after selecting the directory
-run  -->>  http://localhost:3000/
+RUN  -->>  http://localhost:3000/  on any browser 
